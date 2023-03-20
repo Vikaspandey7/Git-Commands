@@ -16,11 +16,11 @@ git push - Uploads changes made to the repository to a remote server, such as Gi
 git pull - Downloads changes made to the remote repository and applies them to your local repository.
 
 git clone - Creates a copy of a remote repository on your local machine.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 $ git remote add origin git@github.com:Vikaspandey7/Git-Commands.git
 
 $ git push -u origin master
 
 $ git pull origin master
-=======================================================================================================================================================================
+
 Remembering these commands can help you get started with using Git for version control.
